@@ -1,0 +1,8 @@
+prefix=/home/mlab/rbenefo/rbenefo_ws/install
+
+Name: f1tenth_simulator
+Description: Description of f1tenth_simulator
+Version: 0.0.1
+Cflags: -I/home/mlab/rbenefo/rbenefo_ws/install/include
+Libs: -L/home/mlab/rbenefo/rbenefo_ws/install/lib -lf1tenth_simulator
+Requires: message_runtime

@@ -1,0 +1,2 @@
+f1tenth_simulator:rbenefo_roslab
+-DCATKIN_DEVEL_PREFIX=/home/mlab/rbenefo/rbenefo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mlab/rbenefo/rbenefo_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/mlab/rbenefo/rbenefo_ws/devel
+
+Name: rbenefo_roslab
+Description: Description of rbenefo_roslab
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mlab/rbenefo/rbenefo_ws/devel/lib 
+Requires: 
