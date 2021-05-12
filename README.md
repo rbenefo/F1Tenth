@@ -10,7 +10,7 @@ Included are several algorithms that implement control and planning for the [F1T
 
 * A pure pursuit planner, which implements the pure pursuit algorithm for trajectory following. Below is a youtube link of the output:
 
-[![Watch the video](https://img.youtube.com/vi/076yI9KV0Us/maxresdefault.jpg)](hhttps://www.youtube.com/watch?v=076yI9KV0Us)
+[![Watch the video](https://img.youtube.com/vi/076yI9KV0Us/maxresdefault.jpg)](https://www.youtube.com/watch?v=076yI9KV0Us)
 
 * A wall following controller.
 
